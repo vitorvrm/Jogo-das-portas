@@ -1,0 +1,35 @@
+.presente{
+    position: relative;
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.tampa {
+    width: 100px;
+    height: 25px;
+    background-color: #bca9da;
+
+}
+.corpo {
+    width: 90px;
+    height: 60px;
+    background-color: #9981c8;
+}
+
+.laco1 {
+    position: absolute;
+    width: 15px;
+    height: 85px;
+    background-color: #f00;
+}
+
+.laco2 {
+    position: absolute;
+    margin-top: 40px;
+    width: 90px;
+    height: 15px;
+    background-color: #f00;
+}
+
